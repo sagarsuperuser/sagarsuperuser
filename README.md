@@ -1,7 +1,6 @@
-Backend engineer — billing, payments, and delivery systems.  
 **[Velox](https://github.com/getvelox/velox)** — open-source usage-based billing engine (Go, PostgreSQL, React).  
 **[notif-service](https://github.com/sagarsuperuser/notif-service)** — distributed SMS platform on AWS (Go, SQS, Kubernetes).  
-Everything below is public, dated, and reproducible from the repo it lives in.
+Everything below is public, dated, and reproducible from the repo it lives in — start with the two benchmark reports.
 
 ## [Velox](https://github.com/getvelox/velox) — open-source usage-based billing engine
 
