@@ -4,7 +4,7 @@ Go · PostgreSQL · AWS · Kubernetes · Terraform · Redis
 
 ## [Velox](https://github.com/getvelox/velox): open-source billing engine for AI products
 
-Usage metering, pricing, invoicing, Stripe payments, failed-payment retries, credits and tax. Go, PostgreSQL and React. I'm the sole engineer. It is AI-assisted under a written review and testing process.
+Usage metering, pricing, invoicing, Stripe payments, failed-payment retries, credits and tax. Go, PostgreSQL and React. It is AI-assisted under a written review and testing process.
 
 - [Correctness under failure](https://github.com/getvelox/velox/blob/main/docs/benchmarks/failure-correctness.md): the billing leader was killed at five points mid-run, then four leaders raced the same run. No duplicate or lost invoices. With one database constraint removed as a control, the same test billed $2,575 against $1,000 owed.
 - [Sustained throughput on AWS](https://github.com/getvelox/velox/blob/main/docs/benchmarks/sustained-throughput.md): 12,000 events/s at p99 22.6 ms on RDS Postgres, with every event reconciled.
