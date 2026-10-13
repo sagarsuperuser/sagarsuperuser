@@ -1,4 +1,4 @@
-I'm Sagar Waidande, a backend engineer in Pune, India. Eight years on money systems: trading platforms, payment APIs across several providers, and billing. I've written Go professionally since 2021. Since 2025 I've been building open-source backend systems full time and load-testing them on AWS. Open to senior backend roles in Bengaluru or remote.
+I'm Sagar Waidande, a backend engineer in Pune, India. Eight years of backend engineering, mostly on systems that move money: trading platforms, payment APIs and billing. I've written Go professionally since 2021. Since 2025 I've been building open-source backend systems full time and load-testing them on AWS. Open to senior backend roles in Bengaluru or remote.
 
 Go · PostgreSQL · AWS · Kubernetes · Terraform · Redis
 
